@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 261">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #e6e2df;
+      }
+
+      .cls-3 {
+        fill: #d12020;
+      }
+
+      .cls-4 {
+        fill: #ece8e5;
+      }
+
+      .cls-5 {
+        fill: #f5f5f3;
+      }
+
+      .cls-6 {
+        fill: #e3e0db;
+      }
+
+      .cls-7 {
+        fill: #eeede9;
+      }
+
+      .cls-8 {
+        fill: #eae8dc;
+        stroke: #000;
+      }
+
+      .cls-9 {
+        fill: #f5f5f5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="BottomRight">
+      <path class="cls-9" d="M0,261h232V0H0v261Z"/>
+      <path class="cls-4" d="M0,261h232V0H0v261Z"/>
+      <path class="cls-7" d="M0,128.5h166c25.68,0,46.5-20.82,46.5-46.5V0H0v128.5Z"/>
+      <path class="cls-6" d="M232,230H0v31h232v-31Z"/>
+      <path class="cls-2" d="M88,0v11.1l35,23.9V0h-35Z"/>
+      <path class="cls-5" d="M88.69,0H0v35h123L88.69,0Z"/>
+      <rect id="ButtonBack" class="cls-8" x="48.5" y="157.5" width="102" height="72" rx="4.5" ry="4.5"/>
+      <rect id="ButtonIcon" class="cls-1" x="74" y="168" width="51" height="51"/>
+      <circle id="onOff" class="cls-3" cx="13" cy="194" r="13"/>
+    </g>
+  </g>
+</svg>
