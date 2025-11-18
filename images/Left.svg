@@ -1,31 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 666.99">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #ece8e5;
-      }
-
-      .cls-2 {
-        fill: #f1f0ec;
-      }
-
-      .cls-3 {
-        fill: #eeede9;
-      }
-
-      .cls-4 {
-        fill: #f5f5f5;
-      }
-    </style>
-  </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
-    <g id="Left">
-      <polygon class="cls-4" points="0 .81 0 666.99 143.31 666.99 144 0 0 .81"/>
-      <polygon class="cls-1" points="0 .81 0 666.99 143.31 666.99 144 0 0 .81"/>
-      <polygon class="cls-3" points="20.5 .7 20.5 666.99 143.31 666.99 144 0 20.5 .7"/>
-      <polygon class="cls-2" points="109 .2 109 333.69 143.65 333.69 143.84 151.91 144 0 109 .2"/>
-      <polygon class="cls-2" points="109 333.3 109 666.99 143.31 666.99 143.66 333.3 109 333.3"/>
-    </g>
-  </g>
+<svg width="144" height="500" viewBox="0 0 144 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Left 1" clip-path="url(#clip0_6_188)">
+<g id="Layer 1">
+<g id="Left">
+<path id="Vector" d="M0 0.607205V500H143.31L144 0L0 0.607205Z" fill="#F5F5F5"/>
+<path id="Vector_2" d="M0 0V500L143.31 499.5L144 -0.500031L0 0Z" fill="#ECE8E5"/>
+<path id="Vector_3" d="M20.5 0V500H143.31L144 0H20.5Z" fill="#EEEDE9"/>
+<path id="Vector_4" d="M109 0.149927V250.146H143.65L143.84 113.877L144 0L109 0.149927Z" fill="#F1F0EC"/>
+<path id="Vector_5" d="M109 249.854V500H143.31L143.66 249.854H109Z" fill="#F1F0EC"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_6_188">
+<rect width="144" height="500" fill="white"/>
+</clipPath>
+</defs>
 </svg>

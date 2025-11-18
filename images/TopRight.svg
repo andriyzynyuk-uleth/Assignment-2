@@ -1,35 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 143.31 152">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #e6e2df;
-      }
-
-      .cls-2 {
-        fill: #ece8e5;
-      }
-
-      .cls-3 {
-        fill: #eeede9;
-      }
-
-      .cls-4 {
-        fill: #cfc5bb;
-      }
-
-      .cls-5 {
-        fill: #f5f5f5;
-      }
-    </style>
-  </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
-    <g id="TopRight">
-      <polygon class="cls-5" points=".73 0 0 152 143.31 152 143.31 0 .73 0"/>
-      <polygon class="cls-2" points=".73 0 0 152 143.31 152 143.31 0 .73 0"/>
-      <path class="cls-3" d="M77.31,16.5H.65l-.65,135.5h123.81V63c0-25.68-20.82-46.5-46.5-46.5Z"/>
-      <polygon class="cls-1" points=".06 140.39 0 152 34.31 152 34.31 117 .06 140.39"/>
-      <polygon class="cls-4" points=".17 117 0 152 34.31 117 .17 117"/>
-    </g>
-  </g>
+<svg width="232" height="150" viewBox="0 0 232 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="TopRight">
+<g id="TopRight 1" clip-path="url(#clip0_2_74)">
+<g id="Group 1">
+<g id="TopRight_2">
+<path id="Vector" d="M88.7335 0L88 152H232V0H88.7335Z" fill="#F5F5F5"/>
+<path id="Vector_2" d="M88.7335 0L88 152H232V0H88.7335Z" fill="#ECE8E5"/>
+<path id="Vector_3" d="M165.682 16.5H88.6531L88 152H212.406V63C212.406 37.32 191.486 16.5 165.682 16.5Z" fill="#EEEDE9"/>
+<path id="Vector_4" d="M88.0612 140.39L88 152H123V117L88.0612 140.39Z" fill="#E6E2DF"/>
+<path id="Vector_5" d="M88.1708 117L88 152L122.475 117H88.1708Z" fill="#CFC5BB"/>
+</g>
+</g>
+</g>
+<g id="Top 1" clip-path="url(#clip1_2_74)">
+<g id="Group 1_2">
+<g id="Top">
+<path id="Vector_6" d="M0.116364 152L0 0L0.116364 152Z" fill="#F5F5F5"/>
+<path id="Vector_7" d="M89.9973 152L90.0636 0H0L0.116364 152H0.258182H89.9973Z" fill="#F5F5F5"/>
+<path id="Vector_8" d="M0.116364 152L0 0L0.116364 152Z" fill="#ECE8E5"/>
+<path id="Vector_9" d="M89.9973 152L90.0636 0H0L0.116364 152H0.258182H89.9973Z" fill="#ECE8E5"/>
+<path id="Vector_10" d="M0.0127563 16.5L0.0282109 37.07L0.0127563 16.5Z" fill="#EEEDE9"/>
+<path id="Vector_11" d="M0.11638 152L0.0281982 37.07L0.11638 152Z" fill="#EEEDE9"/>
+<path id="Vector_12" d="M89.9973 152L90.0564 16.5H0.0127563L0.0282109 37.07L0.116393 152H0.258211H89.9973Z" fill="#EEEDE9"/>
+<path id="Vector_13" d="M0.0900269 117L0.11639 152V117H0.0900269Z" fill="#CFC5BB"/>
+<path id="Vector_14" d="M45.0509 117H0.116394V152H45.0509V117Z" fill="#CFC5BB"/>
+<path id="Vector_15" d="M45 117V152H89.9973L90.0127 117H45Z" fill="#CFC5BB"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2_74">
+<rect width="144" height="150" fill="white" transform="translate(88)"/>
+</clipPath>
+<clipPath id="clip1_2_74">
+<rect width="90" height="150" fill="white"/>
+</clipPath>
+</defs>
 </svg>
