@@ -25,6 +25,18 @@ if (buttonBack) {
         e.stopPropagation();
         setPower(!pcPowered);
     });
+    buttonBack.addEventListener('pointerdown', (e) => {
+        const img = document.getElementById('powerImg');
+        if (img) img.classList.add('pressed');
+    });
+    buttonBack.addEventListener('pointerup', (e) => {
+        const img = document.getElementById('powerImg');
+        if (img) img.classList.remove('pressed');
+    });
+    buttonBack.addEventListener('pointerleave', (e) => {
+        const img = document.getElementById('powerImg');
+        if (img) img.classList.remove('pressed');
+    });
 }
 const buttonBackHit = document.getElementById('ButtonBackHit');
 if (buttonBackHit) {
@@ -33,11 +45,28 @@ if (buttonBackHit) {
         e.stopPropagation();
         setPower(!pcPowered);
     });
+    buttonBackHit.addEventListener('pointerdown', (e) => {
+        const img = document.getElementById('powerImg');
+        if (img) img.classList.add('pressed');
+    });
+    buttonBackHit.addEventListener('pointerup', (e) => {
+        const img = document.getElementById('powerImg');
+        if (img) img.classList.remove('pressed');
+    });
+    buttonBackHit.addEventListener('pointerleave', (e) => {
+        const img = document.getElementById('powerImg');
+        if (img) img.classList.remove('pressed');
+    });
 }
 
 const _saved = sessionStorage.getItem('pcPowered');
 if (_saved === 'true') setPower(true);
 else setPower(false);
+
+document.addEventListener('pointerup', () => {
+    const img = document.getElementById('powerImg');
+    if (img) img.classList.remove('pressed');
+});
 (function(){
     const images = ['images/Lion.png','images/Smiley.png','images/star.png'];
     let idx = 0;
